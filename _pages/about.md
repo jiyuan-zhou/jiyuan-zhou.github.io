@@ -16,6 +16,7 @@ redirect_from:
 
 ## Biography
 Hi! I am a full-time Research Assistant in the Department of Linguistics and Translation at City University of Hong Kong, supervised by Prof. LAI Jackie Yan-Ki. Before that, I received an M.A. degree in Language Studies from City University of Hong Kong in 2024. <!-- My research interest mainly lies in ... -->
+
 **I am actively seeking a Ph.D. position for Fall 2025. If my research interests align with yours, please feel free to reach out to me.**
 
 ## News and Updates
