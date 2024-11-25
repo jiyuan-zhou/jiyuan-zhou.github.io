@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ site.baseurl }}/files/CV_202102.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/PhD_Application_CV_Jiyuan_Zhou.pdf" width="1200" height="1600" type='application/pdf'>
