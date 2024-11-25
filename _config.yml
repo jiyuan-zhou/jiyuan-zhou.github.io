@@ -10,29 +10,29 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "|"
-name                     : &name "Xuguo Fu"
+name                     : &name "Jiyuan Zhou"
 description              : &description "personal description"
-url                      : https://xuguofu98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jiyuan-zhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xuguofu98/xuguofu98.github.io"
+repository               : "jiyuan-zhou/jiyuan-zhou.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xuguofu.jpg"
-  name             : "Xuguo Fu"
+  avatar           : "jiyuanzhou.jpg"
+  name             : "Jiyuan Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student<br>Dept. of ECE<br>Stony Brook University"
-  location         : "Stony Brook, NY, USA"
+  bio              : "Research Assistant<br> Department of Linguistics and Translation<br>City University of Hong Kong (CityU)"
+  location         : "83, Tat Chee Avenue, Kowloon, Hong Kong SAR"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : "xuguo.fu@stonybrook.edu" 
+  email            : "jiyuan.zhou@my.cityu.edu.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=I4cC1SkAAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=I4cC1SkAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
