@@ -24,9 +24,9 @@ You can find my [CV here](https://jiyuan-zhou.github.io/cv/).
 ## News and Updates
 - 10/2024 I delivered an oral presentation at the 24th National Conference on Linguistics in Taiwan.
 - 10/2024 I joined Prof. LAI Jackie Yan-Ki's team as a full-time Research Assistant.
-- 10/2024 I graduated from CUHK. Is it the end of one chapter or the beginning of another story?
+- 10/2024 I graduated from CityU. Is it the end of one chapter or the beginning of another story?
 - 01/2024 I began my research under the supervision of Prof. Jackie Yan-Ki LAI. Let’s make great progress together!
-- 09/2023 I started my M.A. studies in Language Studies at CUHK.
+- 09/2023 I started my M.A. studies in Language Studies at CityU.
 
 ## Publications
 -	**Zhou, J. Y.**, Lai, J. Y. A Corpus Investigation from the Perspective of Chinese Adjectives. *Language and Gender*, to be submitted, 2024.
