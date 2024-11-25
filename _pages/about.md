@@ -26,7 +26,7 @@ You can find my [CV here](https://jiyuan-zhou.github.io/cv/).
 - 10/2024 I joined Prof. LAI Jackie Yan-Ki's team as a full-time Research Assistant. My story continues.
 - 10/2024 I graduated from CUHK. Is it the end of one chapter or the beginning of another story?
 - 01/2024 I began my research under the supervision of Prof. Jackie Yan-Ki LAI. Let’s make great progress together!
-- 09/2023 I started my M.A. studies at CUHK.
+- 09/2023 I started my M.A. studies in Language Studies at CUHK.
 
 ## Publications
 -	**Zhou, J. Y.**, Lai, J. Y. A Corpus Investigation from the Perspective of Chinese Adjectives. *Language and Gender*, to be submitted, 2024.
