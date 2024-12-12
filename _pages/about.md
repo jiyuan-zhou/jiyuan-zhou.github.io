@@ -29,7 +29,7 @@ You can find my [CV here](https://jiyuan-zhou.github.io/cv/).
 - 09/2023 I started my M.A. studies in Language Studies at CityU.
 
 ## Publications
--	**Zhou, J. Y.**, Lai, J. Y. A Corpus Investigation from the Perspective of Chinese Adjectives. *Language and Gender*, to be submitted, 2024.
+-	**Zhou, J. Y.**, Lai, J. Y. A Corpus Investigation from the Perspective of Chinese Adjectives. *Language and Gender*, submitted, 2024.
 -	Lai, J. Y., **Zhou, J. Y.** Mandarin-English X0-internal Codeswitching: Corpus Findings and Its Implications for the PF Wing of Bilingual Grammar. *Bilingualism: Language and Cognition*, to be submitted, 2024.
 -	**Zhou, J. Y.**, Lai, J. Y. Gender Stereotypes in Language: A Dependency-Parsing-Based Analysis of Adjectival Usage with Chinese Gendered Nouns. Oral presentation at the 24th National Conference on Linguistics, Taiwan, October 19, 2024.
 -	**Zhou, J. Y.** From Dependency Parsing to Keyword Analysis: Unveiling Gender-Characteristic Adjectives in Chinese. Master’s Thesis, City University of Hong Kong, 2024.
