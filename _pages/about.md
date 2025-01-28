@@ -22,7 +22,8 @@ Hi! I am a full-time Research Assistant in the Department of Linguistics and Tra
 You can find my [CV here](https://jiyuan-zhou.github.io/cv/).
 
 ## News and Updates
-- 11/2024 I submitted my paper to Gender and Language.
+- 01/2025 I submitted my manuscript to NWAV-AP8.
+- 11/2024 I submitted my manuscript to Gender and Language.
 - 10/2024 I delivered an oral presentation at the 24th National Conference on Linguistics in Taiwan.
 - 10/2024 I joined Prof. LAI Jackie Yan-Ki's team as a full-time Research Assistant.
 - 10/2024 I graduated from CityU. Is it the end of one chapter or the beginning of another story?
