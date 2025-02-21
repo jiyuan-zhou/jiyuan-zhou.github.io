@@ -15,13 +15,14 @@ redirect_from:
 </style>
 
 ## Biography
-Hi! I am a Research Assistant in the Department of Linguistics and Translation at City University of Hong Kong, supervised by [Prof. Aini Li](https://ainili-linguist.github.io/index.html) and co-supervised by [Prof. LAI Jackie Yan-Ki](https://sites.google.com/view/jyklai). Before that, I received an M.A. degree in Language Studies focusing on Corpus and Empirical Linguistics at City University of Hong Kong in 2024. My research interests mainly lie in sociolinguistics, language varation and change as well as corpus and experimental methods.
+Hi! I am currently a Research Assistant at Centre for Research on Chinese Language and Education (CRCLE) at The Education University of Hong Kong, under the guidance of [Prof. Hongdi Ding](https://repository.eduhk.hk/en/persons/hongdi%E4%B8%81%E6%B3%93%E6%A3%A3-ding). Before that, I was a Research Assistant in the Department of Linguistics and Translation at City University of Hong Kong, supervised by [Prof. Aini Li](https://ainili-linguist.github.io/index.html) and co-supervised by [Prof. LAI Jackie Yan-Ki](https://sites.google.com/view/jyklai). Last October, I received an M.A. degree in Language Studies focusing on Corpus and Empirical Linguistics. My research interests mainly lie in sociolinguistics, language varation and change as well as corpus and experimental methods.
 
 <span style="color:red;">**I am actively seeking a Ph.D. position for Fall 2025. If my research interests align with yours, please feel free to reach out to me at [jiyuan.zhou@my.cityu.edu.hk](jiyuan.zhou@my.cityu.edu.hk).**</span>
 
 You can find my [CV here](https://jiyuan-zhou.github.io/cv/).
 
 ## News and Updates
+- 01/2025 I am excited to share that I have joined the CRCLE at EduHK as a Research Assistant, supervised by Prof. Hongdi Ding!
 - 01/2025 I submitted my manuscript to NWAV-AP8.
 - 11/2024 I submitted my manuscript to Gender and Language.
 - 10/2024 I delivered an oral presentation at the 24th National Conference on Linguistics in Taiwan.
