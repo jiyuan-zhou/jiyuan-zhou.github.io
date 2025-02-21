@@ -22,7 +22,7 @@ Hi! I am currently a Research Assistant at Centre for Research on Chinese Langua
 You can find my [CV here](https://jiyuan-zhou.github.io/cv/).
 
 ## News and Updates
-- 01/2025 I am excited to share that I have joined the CRCLE at EduHK as a Research Assistant, supervised by Prof. Hongdi Ding!
+- 02/2025 I am excited to share that I have joined the CRCLE at EduHK as a Research Assistant, supervised by Prof. Hongdi Ding!
 - 01/2025 I submitted my manuscript to NWAV-AP8.
 - 11/2024 I submitted my manuscript to Gender and Language.
 - 10/2024 I delivered an oral presentation at the 24th National Conference on Linguistics in Taiwan.
