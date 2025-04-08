@@ -17,11 +17,12 @@ redirect_from:
 ## Biography
 Hi! I am currently a Research Assistant at Centre for Research on Chinese Language and Education (CRCLE) at The Education University of Hong Kong, under the guidance of [Prof. Hongdi Ding](https://repository.eduhk.hk/en/persons/hongdi%E4%B8%81%E6%B3%93%E6%A3%A3-ding). Before that, I was a Research Assistant in the Department of Linguistics and Translation at City University of Hong Kong, supervised by [Prof. Aini Li](https://ainili-linguist.github.io/index.html) and co-supervised by [Prof. LAI Jackie Yan-Ki](https://sites.google.com/view/jyklai). Last October, I received an M.A. degree in Language Studies focusing on Corpus and Empirical Linguistics. My research interests mainly lie in sociolinguistics, language varation and change as well as corpus and experimental methods.
 
-<span style="color:red;">** I am extremely excited to share that I'll be pursuing my PhD in Linguistics Program at University of South Carolina as a fully funded student this Fall 2025. Ready to dive into research on language variation and change. Howdy! Thank to everyone who helped me reach this milestone :) **</span>
+<span style="color:red;"> I am extremely excited to share that I'll be pursuing my PhD in Linguistics Program at University of South Carolina as a fully funded student this Fall 2025. Ready to dive into research on language variation and change. Howdy! Thank to everyone who helped me reach this milestone. :) </span>
 
 You can find my [CV here](https://jiyuan-zhou.github.io/cv/).
 
 ## News and Updates
+- 04/2025 I love April - one good news after another! Our paper titled "Probing variable perceptions of gendered adjective-noun combinations in Mandarin" has been accepted as Oral Presentation for New Ways of Analysing Variation Asia Pacific 8.
 - 04/2025 Accepted a fully-funded PhD offer in Linguistics at the University of South Carolina.
 - 03/2025 I submitted my manuscript to LILG2.
 - 02/2025 I am excited to share that I have joined the CRCLE at EduHK as a Research Assistant, supervised by Prof. Hongdi Ding!
