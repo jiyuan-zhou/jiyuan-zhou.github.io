@@ -23,9 +23,9 @@ You can find my [CV here](https://jiyuan-zhou.github.io/cv/).
 - 08/2025 I started my PhD journey at University of South Carolina.
 
 ## Presentations
-- **Zhou, J.** & Li, A. Probing perceptions of gendered adjective-noun combinations acrosstextual and auditory modalities in Mandarin.Poster to be presented at New Ways of Analyzing Variation (NWAV53), University of Michigan, Ann Arbor, United States, November 5-7.
+- **Zhou, J.** & Li, A. Probing perceptions of gendered adjective-noun combinations acrosstextual and auditory modalities in Mandarin. Poster to be presented at New Ways of Analyzing Variation (NWAV53), University of Michigan, Ann Arbor, United States, November 5-7, 2025.
 - **Zhou, J.** & Li, A. Stereotype Consistency and Violation in Mandarin Adjective-Noun Collocations. Poster presented at Linguistic Intersections of Language and Gender (LILG2), Heinrich-Heine-Universität Düsseldorf, Germany, 12-13 August, 2025.
-- **Zhou, J.** & Li, A. Probing variable perceptions of gendered adjective-noun combinations in Mandarin. Paper presented at New Ways of Analyzing Variation-Asia Pacific 8 (NWAV-AP8), Nanyang Technological University, Singapore, August 4-7, 2024.
+- **Zhou, J.** & Li, A. Probing variable perceptions of gendered adjective-noun combinations in Mandarin. Paper presented at New Ways of Analyzing Variation-Asia Pacific 8 (NWAV-AP8), Nanyang Technological University, Singapore, August 4-7, 2025.
 -	**Zhou, J.**, Lai, J. Y. Gender Stereotypes in Language: A Dependency-Parsing-Based Analysis of Adjectival Usage with Chinese Gendered Nouns. Paper presented at the 24th National Conference on Linguistics (NCL25), Taiwan, October 19, 2024.
 
 ## Publications
