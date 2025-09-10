@@ -15,7 +15,9 @@ redirect_from:
 </style>
 
 ## Biography
-Hi! I am currently a first-year PhD student in Linguistics Program at Univsrsity of South Carolina. My primary advisor is [Dr. Lewis Esposito](https://sites.google.com/view/lewisesposito/home). Before that, I was a Research Assistant at Centre for Research on Chinese Language and Education (CRCLE) at The Education University of Hong Kong, under the guidance of [Prof. Hongdi Ding](https://pappl.eduhk.hk/rich/web/person.xhtml?pid=295523&name=DING-Hongdi). I also was a Research Assistant in the Department of Linguistics and Translation at City University of Hong Kong, supervised by [Prof. Aini Li](https://ainili-linguist.github.io/index.html) and co-supervised by [Prof. LAI Jackie Yan-Ki](https://sites.google.com/view/jyklai). Last October, I received an M.A. degree in Language Studies focusing on Corpus and Empirical Linguistics. My research interests mainly lie in sociolinguistics, language varation and change as well as corpus and experimental methods.
+Hi! I am currently a first-year PhD student in Linguistics Program at Univsrsity of South Carolina. My primary advisor is [Dr. Lewis Esposito](https://sites.google.com/view/lewisesposito/home).
+Before that, I was a Research Assistant at Centre for Research on Chinese Language and Education (CRCLE) at The Education University of Hong Kong, under the guidance of [Prof. Hongdi Ding](https://pappl.eduhk.hk/rich/web/person.xhtml?pid=295523&name=DING-Hongdi). I also was a Research Assistant in the Department of Linguistics and Translation at City University of Hong Kong, supervised by [Prof. Aini Li](https://ainili-linguist.github.io/index.html) and co-supervised by [Prof. LAI Jackie Yan-Ki](https://sites.google.com/view/jyklai).
+Last October, I received an M.A. degree in Language Studies focusing on Corpus and Empirical Linguistics. My research interests mainly lie in sociolinguistics, language varation and change as well as corpus and experimental methods.
 
 You can find my [CV here](https://jiyuan-zhou.github.io/cv/).
 
