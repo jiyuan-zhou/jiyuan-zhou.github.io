@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 <script>
-  window.location.href = "{{ site.baseurl }}/files/PhD_Application_CV_Jiyuan_Zhou.pdf";
+  window.location.href = "{{ site.baseurl }}/files";
 </script>
