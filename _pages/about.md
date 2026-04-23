@@ -21,7 +21,7 @@ Before that, I was a Research Assistant at Centre for Research on Chinese Langua
 
 In October 2025, I received an M.A. degree in Language Studies focusing on Corpus and Empirical Linguistics. 
 
-You can find my [CV here](https://jiyuan-zhou.github.io/CV_Jiyuan_Zhou.pdf/).
+You can find my [CV here](https://jiyuan-zhou.github.io/cv/).
 
 ## News and Updates
 - 04/2026 We submitted our proceeding paper to Proceedings of the Linguistic Society of America.
