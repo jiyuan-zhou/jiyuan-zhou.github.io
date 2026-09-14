@@ -15,7 +15,7 @@ redirect_from:
 </style>
 
 ## Biography
-Hi! I am currently a first-year PhD student in Linguistics Program at Univsrsity of South Carolina. My primary advisor is [Dr. Lewis Esposito](https://sites.google.com/view/lewisesposito/home). My research interests mainly lie in sociolinguistics, especially language and gender.
+Hi! I am currently a second-year PhD student in Linguistics Program at Univsrsity of South Carolina. My primary advisor is [Dr. Lewis Esposito](https://sites.google.com/view/lewisesposito/home). My research interests mainly lie in sociolinguistics, especially language and gender.
 
 Before that, I was a Research Assistant at Centre for Research on Chinese Language and Education (CRCLE) at The Education University of Hong Kong, supervised by [Dr. Hongdi Ding](https://pappl.eduhk.hk/rich/web/person.xhtml?pid=295523&name=DING-Hongdi). I also was a Research Assistant in the Department of Linguistics and Translation at City University of Hong Kong, supervised by [Dr. Aini Li](https://ainili-linguist.github.io/index.html) and co-supervised by [Dr. LAI Jackie Yan-Ki](https://sites.google.com/view/jyklai).
 
