@@ -13,11 +13,11 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-selected_papers: false # the single publication is listed below
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # show the month-only news list below
+  enabled: false # month-only dates are displayed in the original news table style below
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -31,13 +31,27 @@ Hi there! I'm a second-year PhD student in Linguistics at University of South Ca
 
 I received my MA in Language Studies specializing in Corpus Linguistics from City University of Hong Kong (2024), where I was advised by [Aini Li](https://ainili-linguist.github.io/) and [Jackie Yan-Ki Lai](https://lt.cityu.edu.hk/people/academic-staff/lai-yan-ki-jackie). My master's thesis used dependency parsing to examine gendered patterns in adjectives modifying gendered nouns in Chinese corpora. After graduating, I worked as a research assistant there and later at the Centre for Research on Chinese Language and Education (CRCLE) at The Education University of Hong Kong.
 
-## [News](/news/)
+## [news](/news/)
 
-- **July 2026:** We submitted _X<sup>0</sup>-internal Codeswitching Exists: Evidence from Mandarin–English Bilinguals_ to the _International Journal of Bilingualism_.
-- **June 2026:** Our paper, [_Perception and social evaluation of gendered adjective-noun combinations in Mandarin_](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/6147), was published in the _Proceedings of the Linguistic Society of America_.
-- **April 2026:** We submitted _Perception and social evaluation of gendered adjective-noun combinations in Mandarin_.
-- **April 2026:** A project I participated in launched the [Sino-Tibetan Database of Language Splits (漢藏語分化時間數據庫)](http://47.113.104.70:8001), a digital tool for studying language divergence and migration.
-
-## [Publication](/publications/)
-
-Zhou, Jiyuan, and Aini Li. 2026. [“Perception and social evaluation of gendered adjective-noun combinations in Mandarin.”](https://doi.org/10.3765/plsa.v11i1.6147) _Proceedings of the Linguistic Society of America_ 11(1): 6147.
+<div class="news">
+  <div class="table-responsive" style="max-height: 60vw">
+    <table class="table table-sm table-borderless">
+      <tr>
+        <th scope="row" style="width: 20%">Jul 2026</th>
+        <td>We submitted <em>X<sup>0</sup>-internal Codeswitching Exists: Evidence from Mandarin–English Bilinguals</em> to the <em>International Journal of Bilingualism</em>.</td>
+      </tr>
+      <tr>
+        <th scope="row" style="width: 20%">Jun 2026</th>
+        <td>Our paper, <a href="https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/6147"><em>Perception and social evaluation of gendered adjective-noun combinations in Mandarin</em></a>, was published in the <em>Proceedings of the Linguistic Society of America</em>.</td>
+      </tr>
+      <tr>
+        <th scope="row" style="width: 20%">Apr 2026</th>
+        <td>We submitted <em>Perception and social evaluation of gendered adjective-noun combinations in Mandarin</em>.</td>
+      </tr>
+      <tr>
+        <th scope="row" style="width: 20%">Apr 2026</th>
+        <td>A project I participated in launched the <a href="http://47.113.104.70:8001">Sino-Tibetan Database of Language Splits (漢藏語分化時間數據庫)</a>, a digital tool for studying language divergence and migration.</td>
+      </tr>
+    </table>
+  </div>
+</div>
