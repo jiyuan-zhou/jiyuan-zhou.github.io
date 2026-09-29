@@ -33,11 +33,11 @@ I received my MA in Language Studies specializing in Corpus Linguistics from Cit
 
 ## [News](/news/)
 
-- **July 2026:** We submitted *X<sup>0</sup>-internal Codeswitching Exists: Evidence from Mandarin–English Bilinguals* to the *International Journal of Bilingualism*.
-- **June 2026:** Our paper, [*Perception and social evaluation of gendered adjective-noun combinations in Mandarin*](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/6147), was published in the *Proceedings of the Linguistic Society of America*.
-- **April 2026:** We submitted *Perception and social evaluation of gendered adjective-noun combinations in Mandarin*.
+- **July 2026:** We submitted _X<sup>0</sup>-internal Codeswitching Exists: Evidence from Mandarin–English Bilinguals_ to the _International Journal of Bilingualism_.
+- **June 2026:** Our paper, [_Perception and social evaluation of gendered adjective-noun combinations in Mandarin_](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/6147), was published in the _Proceedings of the Linguistic Society of America_.
+- **April 2026:** We submitted _Perception and social evaluation of gendered adjective-noun combinations in Mandarin_.
 - **April 2026:** A project I participated in launched the [Sino-Tibetan Database of Language Splits (漢藏語分化時間數據庫)](http://47.113.104.70:8001), a digital tool for studying language divergence and migration.
 
 ## [Publication](/publications/)
 
-Zhou, Jiyuan, and Aini Li. 2026. [“Perception and social evaluation of gendered adjective-noun combinations in Mandarin.”](https://doi.org/10.3765/plsa.v11i1.6147) *Proceedings of the Linguistic Society of America* 11(1): 6147.
+Zhou, Jiyuan, and Aini Li. 2026. [“Perception and social evaluation of gendered adjective-noun combinations in Mandarin.”](https://doi.org/10.3765/plsa.v11i1.6147) _Proceedings of the Linguistic Society of America_ 11(1): 6147.
