@@ -13,7 +13,7 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # the single publication is listed below
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -37,3 +37,7 @@ I received my MA in Language Studies specializing in Corpus Linguistics from Cit
 - **June 2026:** Our paper, [*Perception and social evaluation of gendered adjective-noun combinations in Mandarin*](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/6147), was published in the *Proceedings of the Linguistic Society of America*.
 - **April 2026:** We submitted *Perception and social evaluation of gendered adjective-noun combinations in Mandarin*.
 - **April 2026:** A project I participated in launched the [Sino-Tibetan Database of Language Splits (漢藏語分化時間數據庫)](http://47.113.104.70:8001), a digital tool for studying language divergence and migration.
+
+## [Publication](/publications/)
+
+Zhou, Jiyuan, and Aini Li. 2026. [“Perception and social evaluation of gendered adjective-noun combinations in Mandarin.”](https://doi.org/10.3765/plsa.v11i1.6147) *Proceedings of the Linguistic Society of America* 11(1): 6147.
