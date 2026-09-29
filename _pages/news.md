@@ -21,7 +21,7 @@ nav_order: 5
       </tr>
       <tr>
         <th scope="row" style="width: 20%">Jan 2026</th>
-        <td> I presented a talk titled “Perception and social evaluation of gendered adjective-noun combinations in Mandarin” at <a href="https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787">LSA2026 Annual Meeting.
+        <td> I presented a talk titled “Perception and social evaluation of gendered adjective-noun combinations in Mandarin” at <a href="https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787">LSA2026 Annual Meeting.</td>
 
 
 
