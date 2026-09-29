@@ -7,7 +7,7 @@ subtitle: <a href='https://sc.edu/study/colleges_schools/artsandsciences/linguis
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>612 Welsh Humanities Office Building</p>
     <p>1620 College Street</p>
