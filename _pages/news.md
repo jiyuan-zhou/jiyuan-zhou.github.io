@@ -13,7 +13,7 @@ permalink: /news/
       </tr>
       <tr>
         <th scope="row" style="width: 20%">Jun 2026</th>
-        <td>Our paper, <a href="https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/6147"><em>Perception and social evaluation of gendered adjective-noun combinations in Mandarin</em></a>, was published in <a href="https://journals.linguisticsociety.org/proceedings/index.php/PLSA"><em>[Proceedings of the Linguistic Society of America]</em>.</td>
+        <td>Our paper, <a href="https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/6147"><em>Perception and social evaluation of gendered adjective-noun combinations in Mandarin</em></a>, was published in <a href="https://journals.linguisticsociety.org/proceedings/index.php/PLSA">Proceedings of the Linguistic Society of America.</td>
       </tr>
       <tr>
         <th scope="row" style="width: 20%">Apr 2026</th>
