@@ -28,7 +28,7 @@ Hi there! I'm a second-year PhD student in Linguistics at University of South Ca
 
 I received my MA in Language Studies, specializing in Corpus Linguistics from [City University of Hong Kong](https://www.cityu.edu.hk/) (2024), where I was advised by [Aini Li](https://ainili-linguist.github.io/) and [Jackie Yan-Ki Lai](https://lt.cityu.edu.hk/people/academic-staff/lai-yan-ki-jackie). My master's thesis used dependency parsing to examine gendered patterns in adjectives modifying gendered nouns in Chinese corpora. After graduating, I worked as a research assistant there and later at [Centre for Research on Chinese Language and Education (CRCLE)](https://www.eduhk.hk/crcle/) at [The Education University of Hong Kong](https://www.eduhk.hk/en/).
 
-## [News](/news/)
+## [news](/news/)
 
 <div class="news">
   <div class="table-responsive">
