@@ -21,16 +21,6 @@ nav_order: 4
       </tr>
       <tr>
         <th scope="row" style="width: 20%">Jan 2026</th>
-        <td> I presented a talk titled “Perception and social evaluation of gendered adjective-noun combinations in Mandarin” at <a href="https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787">LSA2026 Annual Meeting.</td>
+        <td> I presented a talk titled “Perception and social evaluation of gendered adjective-noun combinations in Mandarin” at <a href="https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787">LSA2026 Annual Meeting.
 
 
-
-## Sino-Tibetan Database of Language Splits
-
-The project, _Building a Digital Lexical Template to Date Dialectal Split of Sino-Tibetan Languages Lacking Written Record and Trace Human Migration_, provides a collaborative digital repository designed to help researchers:
-
-1. Estimate divergence timelines among dialects and languages that lack extensive written records.
-2. Identify major geographic dispersal centers of speaker communities.
-3. Trace likely migration routes using linguistic evidence.
-
-[Explore the database](http://47.113.104.70:8001).
