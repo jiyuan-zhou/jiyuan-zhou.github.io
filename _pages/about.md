@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://sc.edu/'>University of South Carolina</a>.
+subtitle: <a href='https://sc.edu/study/colleges_schools/artsandsciences/linguistics/'>Linguistic Program</a>, <a href='https://sc.edu/'>University of South Carolina</a>
 
 profile:
   align: right
