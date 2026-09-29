@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publication
+title: Publication
 description: My publication in the Proceedings of the Linguistic Society of America.
 nav: true
 nav_order: 2
