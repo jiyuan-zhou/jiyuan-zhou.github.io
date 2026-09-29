@@ -17,7 +17,9 @@ Lewis Esposito and **Jiyuan Zhou**. The phonological conditioning of spectral va
 ## 2025
 
 **Jiyuan Zhou** and Aini Li. Probing perceptions of gendered adjective-noun combinations across textual and auditory modalities in Mandarin. Poster presented at New Ways of Analyzing Variation 53 (NWAV53), University of Michigan, November 5–7.
+
 **Jiyuan Zhou** and Aini Li. Stereotype consistency and violation in Mandarin adjective-noun collocations. Poster presented at Linguistic Intersections of Language and Gender (LILG), Heinrich Heine University Düsseldorf, August 12–13.
+
 **Jiyuan Zhou** and Aini Li. Probing variable perceptions of gendered adjective-noun combinations in Mandarin. Paper presented at New Ways of Analyzing Variation–Asia Pacific 8 (NWAV-AP8), Nanyang Technological University, August 4–7.
 
 ## 2024
