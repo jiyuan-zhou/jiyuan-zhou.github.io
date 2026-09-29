@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 You can find my CV [here]({{ '/assets/pdf/Jiyuan_Zhou_CV_Sep_2026.pdf' | relative_url }}).
