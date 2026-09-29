@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: FALSE
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -31,7 +31,7 @@ Hi there! I'm a second-year PhD student in Linguistics at University of South Ca
 
 I received my MA in Language Studies specializing in Corpus Linguistics from City University of Hong Kong (2024), where I was advised by [Aini Li](https://ainili-linguist.github.io/) and [Jackie Yan-Ki Lai](https://lt.cityu.edu.hk/people/academic-staff/lai-yan-ki-jackie). My master's thesis used dependency parsing to examine gendered patterns in adjectives modifying gendered nouns in Chinese corpora. After graduating, I worked as a research assistant there and later at the Centre for Research on Chinese Language and Education (CRCLE) at The Education University of Hong Kong.
 
-## [news](/news/)
+## [News](/News/)
 
 <div class="news">
   <div class="table-responsive" style="max-height: 60vw">
