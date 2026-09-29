@@ -9,7 +9,7 @@ permalink: /news/
     <table class="table table-sm table-borderless">
       <tr>
         <th scope="row" style="width: 20%">Jul 2026</th>
-        <td>We submitted <em>X<sup>0</sup>-internal Codeswitching Exists: Evidence from Mandarin–English Bilinguals</em> to <a herf="https://journals.sagepub.com/home/ijb"><em>International Journal of Bilingualism</em>.</td>
+        <td>We submitted <em>X<sup>0</sup>-internal Codeswitching Exists: Evidence from Mandarin–English Bilinguals</em> to <a href="https://journals.sagepub.com/home/ijb"><em>International Journal of Bilingualism</em>.</td>
       </tr>
       <tr>
         <th scope="row" style="width: 20%">Jun 2026</th>
