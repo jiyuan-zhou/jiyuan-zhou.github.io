@@ -9,9 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    #<p>612 Welsh Humanities Office Building</p>
-    #<p>1620 College Street</p>
-    #<p>Columbia, SC 29208</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
