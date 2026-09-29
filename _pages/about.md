@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: <a href='https://sc.edu/'>University of South Carolina</a>.
 
 profile:
   align: right
