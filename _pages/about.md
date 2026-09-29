@@ -35,11 +35,11 @@ I received my MA in Language Studies, specializing in Corpus Linguistics from [C
     <table class="table table-sm table-borderless">
       <tr>
         <th scope="row" style="width: 20%">Jul 2026</th>
-        <td>We submitted <em>X<sup>0</sup>-internal Codeswitching Exists: Evidence from Mandarin–English Bilinguals</em> to <a herf="https://journals.sagepub.com/home/ijb"><em>International Journal of Bilingualism</em>.</td>
+        <td>We submitted <em>X<sup>0</sup>-internal Codeswitching Exists: Evidence from Mandarin–English Bilinguals</em> to <a href="https://journals.sagepub.com/home/ijb"><em>International Journal of Bilingualism</em>.</td>
       </tr>
       <tr>
         <th scope="row" style="width: 20%">Jun 2026</th>
-        <td>Our paper, <a href="https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/6147"><em>Perception and social evaluation of gendered adjective-noun combinations in Mandarin</em></a>, was published in <a href="https://journals.linguisticsociety.org/proceedings/index.php/PLSA"><em>[Proceedings of the Linguistic Society of America]</em>.</td>
+        <td>Our paper, <a href="https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/6147"><em>Perception and social evaluation of gendered adjective-noun combinations in Mandarin</em></a>, was published in <a href="https://journals.linguisticsociety.org/proceedings/index.php/PLSA">Proceedings of the Linguistic Society of America.</td>
       </tr>
       <tr>
         <th scope="row" style="width: 20%">Apr 2026</th>
