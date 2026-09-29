@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>613 Welsh Humanities Office Building</p>
+    <p>612 Welsh Humanities Office Building</p>
     <p>1620 College Street</p>
     <p>Columbia, SC 29208</p>
 
@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # month-only dates are displayed in the original news table style below
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
