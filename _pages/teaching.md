@@ -8,7 +8,6 @@ nav_order: 6
 calendar: false
 ---
 
-## Teaching Experience
 
 ### LING 300: Introduction to Language Sciences
 
