@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 周芨园 <span class="ipa">[ʈʂoʊ55 tɕi35 ɥɛn35]</span>
+subtitle: 周芨园 <span class="ipa">[ʈʂoʊ55 tɕi35 ɥɛn35]</span> (she/her)
 
 profile:
   align: right
@@ -27,6 +27,8 @@ latest_posts:
 Hi there! I'm a second-year PhD student in [Linguistics at University of South Carolina](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/), advised by [Lewis Esposito](https://sites.google.com/view/lewisesposito/home). My research interests center on **language and gender**. I'm broadly interested in *how gender is expressed, perceived, and processed through language*. I enjoy exploring these questions from different perspectives and drawing on whatever methods best suit the question at hand. My current work brings together approaches from **sociolinguistics** and **psycholinguistics**, and I'm always excited to expand my methodological toolkit.
 
 I received my MA in Language Studies, specializing in Corpus Linguistics from [City University of Hong Kong](https://www.cityu.edu.hk/) (2024), where I was advised by [Aini Li](https://ainili-linguist.github.io/) and [Jackie Yan-Ki Lai](https://lt.cityu.edu.hk/people/academic-staff/lai-yan-ki-jackie). My master's thesis used dependency parsing to examine gendered patterns in adjectives modifying gendered nouns in Chinese corpora. After graduating, I worked as a research assistant there and later at [Centre for Research on Chinese Language and Education (CRCLE)](https://www.eduhk.hk/crcle/) at [The Education University of Hong Kong](https://www.eduhk.hk/en/).
+
+You can reach me at <a href="mailto:jiyuan.zhou@sc.edu">jiyuan.zhou@sc.edu</a>.
 
 ## [news](/news/)
 
