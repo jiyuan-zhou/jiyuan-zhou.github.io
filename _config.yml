@@ -712,3 +712,33 @@ jsonresume:
   - languages
   - interests
   - references
+
+
+  #-------------------------
+  #delete after the issue is solved
+  #-------------------------
+
+  footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
+  with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+  <style>
+    :root {
+      --global-bg-color: #fff9f6;
+      --global-text-color: #382f31;
+      --global-text-color-light: #74676a;
+      --global-theme-color: #a65d6a;
+      --global-hover-color: #7d3f4b;
+      --global-card-bg-color: #fffdfb;
+    }
+
+    html[data-theme="dark"] {
+      --global-bg-color: #261f21;
+      --global-text-color: #f2e9e9;
+      --global-text-color-light: #c4afb3;
+      --global-theme-color: #db8e9c;
+      --global-hover-color: #f0b0bb;
+      --global-card-bg-color: #32282b;
+    }
+  </style>
