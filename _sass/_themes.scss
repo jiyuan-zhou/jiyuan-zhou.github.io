@@ -1,0 +1,15 @@
+:root {
+  --global-bg-color: #fff9f6;
+  --global-text-color: #382f31;
+  --global-text-color-light: #74676a;
+  --global-theme-color: #a65d6a;
+  --global-hover-color: #7d3f4b;
+}
+
+html[data-theme="dark"] {
+  --global-bg-color: #261f21;
+  --global-text-color: #f2e9e9;
+  --global-text-color-light: #c4afb3;
+  --global-theme-color: #db8e9c;
+  --global-hover-color: #f0b0bb;
+}
